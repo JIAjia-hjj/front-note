@@ -1,3 +1,4 @@
 # front-note
 前端学习笔记
-https://activity.xxfgo.com/promotion/july?codes=5194610_1718_2_44
+html(5)和css(3)：https://github.com/JIAjia-hjj/html5-css3.git
+svn:https://github.com/JIAjia-hjj/svnLearning.git

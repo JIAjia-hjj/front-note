@@ -1,15 +1,15 @@
-# front-note
-前端学习笔记
+# 笔记和demo
 + **html(5)和css(3)**：https://github.com/JIAjia-hjj/html5-css3.git
-+ **svn**:https://github.com/JIAjia-hjj/svnLearn.git
-+ **vue**:https://github.com/JIAjia-hjj/vueLeaning.git
-+ **微信小程序**:https://github.com/JIAjia-hjj/wechat-applet-demo.git
++ **JavaScript**：https://github.com/JIAjia-hjj/JavaScript.git
++ **svn**：https://github.com/JIAjia-hjj/svnLearn.git
++ **vue**：https://github.com/JIAjia-hjj/vueLeaning.git
++ **微信小程序**：https://github.com/JIAjia-hjj/wechat-applet-demo.git
 
 # 项目
-+ **喜相逢以租代购商城**:https://github.com/JIAjia-hjj/xxfgopc.git
-+ **mall**:https://github.com/JIAjia-hjj/mall.git
-+ **unixxf**:https://github.com/JIAjia-hjj/unixxf.git
-+ **social-m**:https://github.com/JIAjia-hjj/social-m.git
++ **喜相逢以租代购商城**：https://github.com/JIAjia-hjj/xxfgopc.git
++ **mall**：https://github.com/JIAjia-hjj/mall.git
++ **unixxf**：https://github.com/JIAjia-hjj/unixxf.git
++ **social-m**：https://github.com/JIAjia-hjj/social-m.git
 
 # H5页面
 + 527助力-裂变：https://activity.xxfgo.com/site/zhuli?codes=519460_1718_2_36

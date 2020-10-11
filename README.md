@@ -4,7 +4,8 @@
 + **svn**：https://github.com/JIAjia-hjj/svnLearn.git
 + **vue**：https://github.com/JIAjia-hjj/vueLeaning.git
 + **微信小程序**：https://github.com/JIAjia-hjj/wechat-applet-demo.git
-+ **Note**：https://github.com/JIAjia-hjj/Note.git
++ **Node.js**：https://github.com/JIAjia-hjj/Node.git
++ **其他笔记**：https://github.com/JIAjia-hjj/Note.git
 
 # 项目
 + **喜相逢以租代购商城**：https://github.com/JIAjia-hjj/xxfgopc.git
